@@ -1,4 +1,4 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "bin": "https://raw.githubusercontent.com/yuki30611/esp32-ota-updater/main/firmware/jsonOTA.ino.bin"
 }
